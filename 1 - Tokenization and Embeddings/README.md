@@ -45,12 +45,3 @@ There are three main types of embeddings:
 3. Reduce the dimensionality of the embeddings to 2D using **t-SNE** (a method for reducing higher-dimensional vectors to lower dimensions).
 4. Visualize the embeddings in a 2D space and observe if the sentences from the two classes are separately clustered.
 5. Reflect on the type of embedding method used.
-
-**Deadline**: February 10th, Monday E.O.D
-
-## Note
-You are expected to watch all the provided videos and complete the two tasks by the deadline.
-
----
-
-This README provides a structured overview of the topics covered in Week 1, along with the tasks and resources needed to complete them. Make sure to follow the instructions carefully and reach out if you have any questions!
